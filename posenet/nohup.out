@@ -1,0 +1,4 @@
+usage: train.py [-h] --cfg CFG [--modelDir MODELDIR] [--logDir LOGDIR]
+                [--dataDir DATADIR] [--prevModelDir PREVMODELDIR]
+                ...
+train.py: error: the following arguments are required: --cfg
